@@ -77,6 +77,12 @@ Google Cloud Platform → AWS
 
 ---
 
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
+
 ## 🎯 2026 Research Goals
 
 - Publish applied AI system research
