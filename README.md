@@ -83,6 +83,20 @@ Google Cloud Platform → AWS
 
 ---
 
+
+## 🧠 Algorithmic Research & Problem Solving
+
+Exploring computational efficiency, data structures, and algorithmic optimization through consistent problem solving.
+
+<p align="center">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img 
+      src="https://leetcard.jacoblin.cool/DARSHAN_T_P/?theme=dark&font=baloo&ext=heatmap" 
+      alt="Darshan's LeetCode Analytics" 
+    />
+  </a>
+</p>
+
 ## 🎯 2026 Research Goals
 
 - Publish applied AI system research
