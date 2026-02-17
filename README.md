@@ -5,7 +5,7 @@
 <h1 align="center">Darshan T P</h1>
 
 <p align="center">
-AI Research Enthusiast | Deep Learning | Computer Vision | Reinforcement Learning  
+AI Research Enthusiast | Deep Learning | Computer Vision | Reinforcement Learning <br/>
 Building Intelligent Systems for Real-World Impact
 </p>
 
@@ -45,13 +45,13 @@ Building Intelligent Systems for Real-World Impact
 ## 🧪 Experimental Stack
 
 ### 💻 Languages
-Python | JavaScript | Java | C
+Python • JavaScript • Java • C
 
 ### 🤖 AI / ML
-TensorFlow | PyTorch | OpenCV | NumPy | Pandas | Scikit-Learn
+TensorFlow • PyTorch • OpenCV • NumPy • Pandas • Scikit-Learn
 
 ### 🌐 Backend & Systems
-Node.js | Express | FastAPI | MongoDB | MySQL
+Node.js • Express • FastAPI • MongoDB • MySQL
 
 ### ☁️ Cloud (Learning Path)
 Google Cloud Platform → AWS
@@ -77,31 +77,34 @@ Google Cloud Platform → AWS
 
 ---
 
+## 📊 Advanced GitHub Metrics
+
 <p align="center">
   <img src="./github-metrics.svg" />
 </p>
 
 ---
 
-
 ## 🧠 Algorithmic Research & Problem Solving
 
 Exploring computational efficiency, data structures, and algorithmic optimization through consistent problem solving.
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/DARSHAN_T_P/" target="_blank">
     <img 
-      src="https://leetcard.jacoblin.cool/DARSHAN_T_P/?theme=dark&font=baloo&ext=heatmap" 
+      src="https://leetcard.jacoblin.cool/DARSHAN_T_P?theme=dark&font=baloo&ext=heatmap" 
       alt="Darshan's LeetCode Analytics" 
     />
   </a>
 </p>
 
+---
+
 ## 🎯 2026 Research Goals
 
 - Publish applied AI system research
 - Optimize RL models for real-time infrastructure systems
-- Build production-grade AI SaaS system
+- Build production-grade AI SaaS systems
 - Contribute to open-source ML research repositories
 - Deep dive into attention mechanisms & model optimization
 
