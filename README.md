@@ -1,83 +1,100 @@
-# 👋 Hi, I'm Darshan T.P
+<p align="center">
+  <img src="https://github.com/Darshan-T-P.png" width="150" style="border-radius:50%" />
+</p>
+
+<h1 align="center">Darshan T P</h1>
 
 <p align="center">
-🧠 AI Engineer in Progress | Full Stack Developer | Deep Learning Enthusiast  
-🚀 Building Intelligent Systems with Real-World Impact  
-💻 RTX 4050 Powered Experiments | CNNs | Reinforcement Learning | Cloud
+AI Research Enthusiast | Deep Learning | Computer Vision | Reinforcement Learning  
+Building Intelligent Systems for Real-World Impact
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Research Interests
 
-- 🎯 Aspiring **AI / ML Engineer**
-- 🤖 Currently working on:
-  - AI-based Traffic Management System (YOLO + RL)
-  - Crowd Counting using Deep Learning
-  - AR-based Railway Navigation System
-- 🌩 Learning: **Google Cloud → AWS**
-- 🧠 Exploring: CNNs, Reinforcement Learning, Computer Vision
-- 🔥 Strong interest in Production-level AI systems
+- Computer Vision
+- Deep Reinforcement Learning
+- Intelligent Traffic Systems
+- Crowd Density Estimation
+- Applied AI for Smart Infrastructure
 
 ---
 
-## 🏆 Featured Projects
+## 🔬 Active Research Projects
 
-### 🚦 AI Traffic Signal Optimization
-- Vehicle detection using YOLO
-- Dynamic signal timing using Deep Q-Network
-- Built with OpenCV + TensorFlow
+### 🚦 Adaptive Traffic Signal Optimization (Deep Q-Network)
+- Real-time vehicle detection using YOLO
+- Reinforcement Learning-based signal timing
+- Goal: Minimize average vehicle waiting time
+- Frameworks: TensorFlow, OpenCV
+- Hardware: NVIDIA RTX 4050
 
-### 👥 Crowd Counting System
-- CNN-based density estimation
-- Real-time crowd analytics
-- Deep learning implementation
+### 👥 Deep Learning-Based Crowd Counting
+- CNN-based density map estimation
+- Model evaluation using MAE & MSE
+- Real-time inference optimization
 
-### 🏦 Banking System (Full Stack)
+### 🏦 Full Stack Banking System
 - Next.js frontend
 - Node.js + MongoDB backend
-- Secure authentication & transactions
+- Secure authentication & transaction handling
 
 ---
 
-## 💻 Tech Stack
+## 🧪 Experimental Stack
 
-### 👨‍💻 Languages
+### 💻 Languages
 Python | JavaScript | Java | C
 
-### ⚙️ AI / ML
+### 🤖 AI / ML
 TensorFlow | PyTorch | OpenCV | NumPy | Pandas | Scikit-Learn
 
-### 🌐 Web
-Next.js | React | Node.js | Express | MongoDB | MySQL
+### 🌐 Backend & Systems
+Node.js | Express | FastAPI | MongoDB | MySQL
 
-### ☁️ Cloud
-Google Cloud (Learning) | AWS (Upcoming)
-
----
-
-## 📊 GitHub Stats
-
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-T-P&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-T-P&layout=compact&theme=react)
+### ☁️ Cloud (Learning Path)
+Google Cloud Platform → AWS
 
 ---
 
-## 🎯 2026 Goals
+## 📊 GitHub Analytics
 
-- Crack AI / ML Engineer role
-- Build production-ready AI SaaS project
-- Contribute to open-source AI tools
-- Master Reinforcement Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darshan-T-P&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Darshan-T-P&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-T-P&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+[![Darshan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Darshan-T-P&theme=tokyo-night)](https://github.com/Darshan-T-P)
+
+---
+
+## 🎯 2026 Research Goals
+
+- Publish applied AI system research
+- Optimize RL models for real-time infrastructure systems
+- Build production-grade AI SaaS system
+- Contribute to open-source ML research repositories
+- Deep dive into attention mechanisms & model optimization
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: [Your LinkedIn Link]  
-Portfolio: [Your Portfolio Link]
+- LinkedIn: (Add your link)
+- Email: (Optional)
+- Portfolio: (Add if available)
 
 ---
 
-🔥 *"Building the future with AI, one model at a time."*
+<p align="center">
+<i>"Engineering intelligence through data, models, and experimentation."</i>
+</p>
