@@ -1,62 +1,28 @@
+<div>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
+
+<h1 align="center">Hi 👋, I'm Darshan T P</h1>
+<h3 align="center">AI Research Enthusiast | Deep Learning | Reinforcement Learning | Computer Vision</h3>
+
 <p align="center">
-  <img src="https://github.com/Darshan-T-P.png" width="150" style="border-radius:50%" />
+Building intelligent systems for smart infrastructure and real-world impact 🚀
+</p>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Darshan-T-P&label=Profile%20views&color=0e75b6&style=flat" alt="Darshan-T-P" /> 
 </p>
 
-<h1 align="center">Darshan T P</h1>
+<h1 align="left">Languages and Tools:</h1>
 
 <p align="center">
-AI Research Enthusiast | Deep Learning | Computer Vision | Reinforcement Learning <br/>
-Building Intelligent Systems for Real-World Impact
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,numpy,pandas,sklearn,fastapi,nodejs,mongodb,mysql,git,linux,gcp" />
+  </a>
 </p>
 
----
 
-## 🧠 Research Interests
-
-- Computer Vision
-- Deep Reinforcement Learning
-- Intelligent Traffic Systems
-- Crowd Density Estimation
-- Applied AI for Smart Infrastructure
-
----
-
-## 🔬 Active Research Projects
-
-### 🚦 Adaptive Traffic Signal Optimization (Deep Q-Network)
-- Real-time vehicle detection using YOLO
-- Reinforcement Learning-based signal timing
-- Goal: Minimize average vehicle waiting time
-- Frameworks: TensorFlow, OpenCV
-- Hardware: NVIDIA RTX 4050
-
-### 👥 Deep Learning-Based Crowd Counting
-- CNN-based density map estimation
-- Model evaluation using MAE & MSE
-- Real-time inference optimization
-
-### 🏦 Full Stack Banking System
-- Next.js frontend
-- Node.js + MongoDB backend
-- Secure authentication & transaction handling
-
----
-
-## 🧪 Experimental Stack
-
-### 💻 Languages
-Python • JavaScript • Java • C
-
-### 🤖 AI / ML
-TensorFlow • PyTorch • OpenCV • NumPy • Pandas • Scikit-Learn
-
-### 🌐 Backend & Systems
-Node.js • Express • FastAPI • MongoDB • MySQL
-
-### ☁️ Cloud (Learning Path)
-Google Cloud Platform → AWS
-
----
 
 ## 📊 GitHub Analytics
 
@@ -100,15 +66,7 @@ Exploring computational efficiency, data structures, and algorithmic optimizatio
 
 ---
 
-## 🎯 2026 Research Goals
 
-- Publish applied AI system research
-- Optimize RL models for real-time infrastructure systems
-- Build production-grade AI SaaS systems
-- Contribute to open-source ML research repositories
-- Deep dive into attention mechanisms & model optimization
-
----
 
 ## 📫 Connect With Me
 
