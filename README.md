@@ -99,6 +99,14 @@ NumPy • Pandas • Scikit-Learn • Power BI • Jupyter Notebook • Postman
 
 ---
 
+## 🚀 Featured Projects
+| Project | Tech | Live |
+|---------|------|------|
+| LoopDeal RAG Agent | Python, FastAPI, Docker | [Render](#) |
+| AI Integration System | FastAPI, OAuth 2.0 | [GitHub](link) |
+| Inventory Management | Node.js, React, MongoDB | [GitHub](link) |
+
+
 ## 📫 Connect With Me
 
 <p align="center">
