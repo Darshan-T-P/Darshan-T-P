@@ -240,7 +240,7 @@ IEEE-published researcher. National hackathon finalist. Internship at Cubic AI S
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Darshan-T-P?theme=dark&font=Karma&ext=heatmap&bg_color=0a0f0d&text_color=d1fae5&border_color=10B981&shadow=true" width="500"/>
+<img src="https://leetcard.jacoblin.cool/Darshan-T-P?theme=dark&font=Karma&ext=heatmap&bg_color=0a0f0d&text_color=d1fae5&border_color=10B981&shadow=true" width="500"/>
 </div>
 
 <div align="center">
@@ -249,10 +249,7 @@ IEEE-published researcher. National hackathon finalist. Internship at Cubic AI S
 
 </div>
 
-> ⚠️ **Note:** Replace `Darshan-T-P` in the LeetCode badge URLs above with your actual LeetCode username if it's different — these cards pull from your real LeetCode profile and update automatically.
-
 ---
-
 ## 🏆 Achievements
 
 <div align="center">
