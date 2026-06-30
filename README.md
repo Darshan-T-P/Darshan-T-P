@@ -7,7 +7,7 @@
 <p>
   <img src="https://img.shields.io/badge/IEEE%20Published-ICAUC%202026-10B981?style=for-the-badge&logo=ieee&logoColor=white"/>
   <img src="https://img.shields.io/badge/SIH%202025-Top%206%20National-10B981?style=for-the-badge&logo=gov.in&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CGPA-8.43%20%2F%2010-10B981?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Certified-Java%20SE%2017-10B981?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 <!-- BADGES ROW 2 — status -->
@@ -38,6 +38,84 @@ darshan = {
 
 I build AI systems **end-to-end** — from LLM pipelines and RAG architectures to production Flutter apps.  
 IEEE-published researcher. National hackathon finalist. Internship at Cubic AI Solutions.
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### AI Agent Intern — Cubic AI Solutions
+**Jul 2025 – Oct 2025** · Remote
+
+- 🤖 Built AI agent workflows and NLP pipelines — News Summarizer, Comment Analyzer — within a 6-member Agile team
+- 🔌 Integrated 5+ third-party APIs and automation pipelines, reducing manual effort by **30%** in key workflows
+- ⚙️ Worked across FastAPI service design, async I/O, retry logic, and production error handling
+
+`FastAPI` `LangChain` `Python` `REST APIs` `NLP` `Agile`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Skills
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🧠 AI / ML / LLM**
+
+<img src="https://img.shields.io/badge/Python-10B981?style=flat-square&logo=python&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/LangChain-10B981?style=flat-square&logo=chainlink&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/OpenAI%20API-10B981?style=flat-square&logo=openai&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/TensorFlow-10B981?style=flat-square&logo=tensorflow&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/XGBoost-10B981?style=flat-square&logo=xgboost&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/YOLOv8-10B981?style=flat-square&logo=yolo&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/OpenCV-10B981?style=flat-square&logo=opencv&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Scikit--learn-10B981?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+</td>
+<td valign="top" width="33%">
+
+**📱 Mobile & Frontend**
+
+<img src="https://img.shields.io/badge/Flutter-10B981?style=flat-square&logo=flutter&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Dart-10B981?style=flat-square&logo=dart&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/React.js-10B981?style=flat-square&logo=react&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/HTML5-10B981?style=flat-square&logo=html5&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/CSS3-10B981?style=flat-square&logo=css3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/JavaScript-10B981?style=flat-square&logo=javascript&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Firebase-10B981?style=flat-square&logo=firebase&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Supabase-10B981?style=flat-square&logo=supabase&logoColor=white"/>
+
+</td>
+<td valign="top" width="33%">
+
+**⚙️ Backend & Infra**
+
+<img src="https://img.shields.io/badge/FastAPI-10B981?style=flat-square&logo=fastapi&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Node.js-10B981?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Express.js-10B981?style=flat-square&logo=express&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-10B981?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MongoDB-10B981?style=flat-square&logo=mongodb&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Docker-10B981?style=flat-square&logo=docker&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-10B981?style=flat-square&logo=githubactions&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Linux-10B981?style=flat-square&logo=linux&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Languages:** Dart · Python · Java · C &nbsp;|&nbsp; **Tools:** Git · Postman · VS Code · Jupyter Notebook
+
+</div>
 
 ---
 
@@ -113,17 +191,17 @@ IEEE-published researcher. National hackathon finalist. Internship at Cubic AI S
 <tr>
 <td width="50%" valign="top">
 
-### 🌫️ [AQI-Intel](https://github.com/Darshan-T-P/AQI-Intel)
-> Real-time 30-day air quality forecasting
+### 🚦 [Track Management System](https://github.com/Darshan-T-P/Track-Management-System)
+> **SIH 2025 National Prefinalist — Top 6**
 
-- 🧠 LSTM + Prophet ensemble model
-- 📡 Live government pollution API integration
-- 📉 &lt;8% MAPE on 30-day forecast window
-- ⚡ FastAPI backend + Streamlit dashboard
+- 📱 Flutter mobile frontend for govt. supply chain tracking
+- 📷 QR-based product scanning + material detail fetch
+- 🔌 Live Node.js REST API integration
+- 📊 Real-time entry logging dashboard
 
-![LSTM](https://img.shields.io/badge/LSTM-10B981?style=flat-square&logo=tensorflow&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-10B981?style=flat-square&logo=meta&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-10B981?style=flat-square&logo=flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-10B981?style=flat-square&logo=nodedotjs&logoColor=white)
+![SIH](https://img.shields.io/badge/SIH%202025-10B981?style=flat-square&logo=gov.in&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -146,40 +224,6 @@ IEEE-published researcher. National hackathon finalist. Internship at Cubic AI S
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**AI / ML / LLM**
-
-![Python](https://img.shields.io/badge/Python-10B981?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-10B981?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-10B981?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-10B981?style=for-the-badge&logo=huggingface&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-10B981?style=for-the-badge&logo=xgboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-10B981?style=for-the-badge&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-10B981?style=for-the-badge&logo=yolo&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-10B981?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-10B981?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-10B981?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-10B981?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Backend & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-10B981?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10B981?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-10B981?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-10B981?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -193,6 +237,22 @@ IEEE-published researcher. National hackathon finalist. Internship at Cubic AI S
 
 ---
 
+## 💻 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Darshan-T-P?theme=dark&font=Karma&ext=heatmap&bg_color=0a0f0d&text_color=d1fae5&border_color=10B981&shadow=true" width="500"/>
+</div>
+
+<div align="center">
+
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=DARSHAN_T_P&theme=dark&background=0A0F0D&border=10B981&strokeColor=10B981)
+
+</div>
+
+> ⚠️ **Note:** Replace `Darshan-T-P` in the LeetCode badge URLs above with your actual LeetCode username if it's different — these cards pull from your real LeetCode profile and update automatically.
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -201,6 +261,7 @@ IEEE-published researcher. National hackathon finalist. Internship at Cubic AI S
 |---|---|
 | **IEEE ICAUC 2026 Published** | YouTube Spam Detection — 97.2% accuracy, 11,440 samples |
 | **SIH 2025 National Prefinalist** | Top 6 nationally — Smart India Hackathon (Govt. of India) |
+| **Oracle Certified Professional** | Java SE 17 Developer |
 | **🥇 EXODIA Hackathon** | 1st Place — 30-hour hackathon |
 | **⭐ BYTS AI Hackathon** | Special Mention |
 | **CSI Chapter Treasurer** | Kongu Engineering College — 200+ member chapter |
